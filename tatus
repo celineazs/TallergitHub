@@ -1,0 +1,6 @@
+user.name=celineazs
+user.email=miche.diazc@gmail.com
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
